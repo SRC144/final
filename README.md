@@ -2,14 +2,14 @@
 
 Sistema de cálculo de notas finales para el curso CS3081 de UTEC.
 
-
 ## Resultados de calidad y análisis SonarQube
 
-### Calidad requerida
-![Calidad requerida](quality.png)
+### Requerido
+![Calidad requerida](sonnar.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](sonnar.png)
+![Resultado SonarQube](quality.png)
+
 ## Descripción
 
 Aplicación CLI que permite a los docentes calcular la nota final de los estudiantes considerando:
